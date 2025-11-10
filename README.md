@@ -4,8 +4,6 @@ This project builds a computer vision system that analyses football footage usin
 
 The system combines YOLOv8 object detection, OpenCV tracking, and K-Means colour clustering to identify players, assign them to teams based on shirt colour, and applies optical flow and perspective transformation to convert pixel movement into real-world metrics. Annotated match footage is then saved with all insights overlaid.
 
-need to convert remaining .avi files to .gif with resolution
-
 ## Raw footage
 ![1](demo/1.gif)
 
